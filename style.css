@@ -1,0 +1,57 @@
+body{
+       
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(20,228,236);
+background: linear-gradient(90deg, rgba(20,228,236,1) 33%, rgba(16,219,210,1) 76%, rgba(9,228,196,1) 100%);
+
+}
+.card-body{
+text-align: center;
+background-color: rgba(255, 255, 255, 0.1);
+
+
+}
+.card-title{
+
+
+  padding-bottom: 5%;
+border-bottom: 2px solid rgb(170, 163, 163,0.2);
+
+
+
+}
+#in{
+ margin-top: 3%;
+
+}
+.btn{
+  background-color: aqua;
+}
+.btn:hover{
+  background-color: aqua;
+}
+.card-text{
+background-color: rgba(245, 39, 39, 0.2);
+color: red;
+border-radius: 3px;
+}
+#a{
+background-color: aqua;
+color: black;
+}
+#n{
+background-color: aqua;
+color: black;
+}
+#s{
+background-color: aqua;
+color: black;
+}
+#c{
+background-color: aqua;
+color: black;
+}
+
